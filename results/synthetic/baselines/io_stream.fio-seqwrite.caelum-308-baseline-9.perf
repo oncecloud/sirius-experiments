@@ -1,0 +1,19 @@
+# started on Fri Jul 10 00:07:30 2015
+
+3104.500572,cpu-clock
+3104.680091,task-clock
+35254,context-switches
+14,cpu-migrations
+8433,page-faults
+3537309753,cycles
+1767694030,instructions
+314631495,branches
+32049373,branch-misses
+849643,cache-misses
+99793039,cache-references
+2838745641,stalled-cycles-frontend
+<not supported>,stalled-cycles-backend
+17957,node-loads
+0,node-load-misses
+0,cpu/mem-loads/
+299270260,cpu/mem-stores/

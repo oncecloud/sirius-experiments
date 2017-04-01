@@ -1,0 +1,20 @@
+# started on Thu Jul  9 17:29:07 2015
+
+52939.043197,cpu-clock
+52939.003321,task-clock
+4542,context-switches
+1,cpu-migrations
+327,page-faults
+119675906373,cycles
+136936050703,instructions
+12513503969,branches
+98010873,branch-misses
+13076,cache-misses
+78252,cache-references
+70076843962,stalled-cycles-frontend
+18688351204,stalled-cycles-backend
+19,node-loads
+0,node-load-misses
+29645,LLC-loads
+28750,LLC-stores
+247,LLC-load-misses

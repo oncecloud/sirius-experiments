@@ -1,0 +1,10 @@
+[submodule "workloads/kittydar"]
+	path = workloads/kittydar
+	url = https://github.com/harthur/kittydar.git
+[submodule "helpers/napper"]
+	path = helpers/napper
+	url = https://github.com/ms705/napper.git
+[submodule "workloads/naiad"]
+	path = workloads/naiad
+	url = https://github.com/ms705/Naiad.git
+	branch = release_0.4
